@@ -1,0 +1,38 @@
+C:\Users\22ff2\OneDrive\Рабочий стол\ArcClassGrid\MyGroup\bin\Debug\ArcClassGrid.exe.config
+C:\Users\22ff2\OneDrive\Рабочий стол\ArcClassGrid\MyGroup\bin\Debug\ArcClassGrid.exe
+C:\Users\22ff2\OneDrive\Рабочий стол\ArcClassGrid\MyGroup\bin\Debug\ArcClassGrid.pdb
+C:\Users\22ff2\OneDrive\Рабочий стол\ArcClassGrid\MyGroup\obj\Debug\MyGroup.csprojAssemblyReference.cache
+C:\Users\22ff2\OneDrive\Рабочий стол\ArcClassGrid\MyGroup\obj\Debug\MyGroup.Menu.resources
+C:\Users\22ff2\OneDrive\Рабочий стол\ArcClassGrid\MyGroup\obj\Debug\ArcClassGrid.Properties.Resources.resources
+C:\Users\22ff2\OneDrive\Рабочий стол\ArcClassGrid\MyGroup\obj\Debug\MyGroup.csproj.GenerateResource.cache
+C:\Users\22ff2\OneDrive\Рабочий стол\ArcClassGrid\MyGroup\obj\Debug\MyGroup.csproj.CoreCompileInputs.cache
+C:\Users\22ff2\OneDrive\Рабочий стол\ArcClassGrid\MyGroup\obj\Debug\ArcClassGrid.exe
+C:\Users\22ff2\OneDrive\Рабочий стол\ArcClassGrid\MyGroup\obj\Debug\ArcClassGrid.pdb
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Доделать\Моя группа\MyGroup\MyGroup\bin\Debug\ArcClassGrid.exe.config
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Доделать\Моя группа\MyGroup\MyGroup\bin\Debug\ArcClassGrid.exe
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Доделать\Моя группа\MyGroup\MyGroup\bin\Debug\ArcClassGrid.pdb
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Доделать\Моя группа\MyGroup\MyGroup\obj\Debug\MyGroup.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Доделать\Моя группа\MyGroup\MyGroup\obj\Debug\MyGroup.Menu.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Доделать\Моя группа\MyGroup\MyGroup\obj\Debug\ArcClassGrid.Properties.Resources.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Доделать\Моя группа\MyGroup\MyGroup\obj\Debug\MyGroup.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Доделать\Моя группа\MyGroup\MyGroup\obj\Debug\ArcClassGrid.exe
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Доделать\Моя группа\MyGroup\MyGroup\obj\Debug\ArcClassGrid.pdb
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\bin\Debug\ArcClassGrid.exe.config
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\bin\Debug\ArcClassGrid.exe
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\bin\Debug\ArcClassGrid.pdb
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\obj\Debug\MyGroup.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\obj\Debug\MyGroup.Menu.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\obj\Debug\ArcClassGrid.Properties.Resources.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\obj\Debug\MyGroup.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\obj\Debug\ArcClassGrid.exe
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\obj\Debug\ArcClassGrid.pdb
+C:\Users\Nikolay\Desktop\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\bin\Debug\ArcClassGrid.exe.config
+C:\Users\Nikolay\Desktop\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\bin\Debug\ArcClassGrid.exe
+C:\Users\Nikolay\Desktop\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\bin\Debug\ArcClassGrid.pdb
+C:\Users\Nikolay\Desktop\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\obj\Debug\MyGroup.csprojAssemblyReference.cache
+C:\Users\Nikolay\Desktop\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\obj\Debug\MyGroup.Menu.resources
+C:\Users\Nikolay\Desktop\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\obj\Debug\ArcClassGrid.Properties.Resources.resources
+C:\Users\Nikolay\Desktop\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\obj\Debug\MyGroup.csproj.GenerateResource.cache
+C:\Users\Nikolay\Desktop\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\obj\Debug\MyGroup.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\obj\Debug\ArcClassGrid.exe
+C:\Users\Nikolay\Desktop\Пушкарев Савелий ИСиП-22\MyGroup\MyGroup\obj\Debug\ArcClassGrid.pdb
