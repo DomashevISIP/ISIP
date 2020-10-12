@@ -1,0 +1,53 @@
+C:\Users\tet3t\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация.csprojAssemblyReference.cache
+C:\Users\tet3t\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация.Form1.resources
+C:\Users\tet3t\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация.Properties.Resources.resources
+C:\Users\tet3t\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация.csproj.GenerateResource.cache
+C:\Users\tet3t\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация.csproj.CoreCompileInputs.cache
+C:\Users\tet3t\source\repos\Авторизация\Авторизация\bin\Debug\Авторизация.exe.config
+C:\Users\tet3t\source\repos\Авторизация\Авторизация\bin\Debug\Авторизация.exe
+C:\Users\tet3t\source\repos\Авторизация\Авторизация\bin\Debug\Авторизация.pdb
+C:\Users\tet3t\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация.exe
+C:\Users\tet3t\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация.pdb
+C:\Users\tet3t\source\repos\Авторизация\Авторизация\obj\Debug\Авторизация.Form2.resources
+C:\Users\tet3t\Desktop\Всякая домашка\Авторизация\Авторизация\bin\Debug\Авторизация.exe.config
+C:\Users\tet3t\Desktop\Всякая домашка\Авторизация\Авторизация\bin\Debug\Авторизация.exe
+C:\Users\tet3t\Desktop\Всякая домашка\Авторизация\Авторизация\bin\Debug\Авторизация.pdb
+C:\Users\tet3t\Desktop\Всякая домашка\Авторизация\Авторизация\obj\Debug\Авторизация.csprojAssemblyReference.cache
+C:\Users\tet3t\Desktop\Всякая домашка\Авторизация\Авторизация\obj\Debug\Авторизация.Form1.resources
+C:\Users\tet3t\Desktop\Всякая домашка\Авторизация\Авторизация\obj\Debug\Авторизация.Form2.resources
+C:\Users\tet3t\Desktop\Всякая домашка\Авторизация\Авторизация\obj\Debug\Авторизация.Properties.Resources.resources
+C:\Users\tet3t\Desktop\Всякая домашка\Авторизация\Авторизация\obj\Debug\Авторизация.csproj.GenerateResource.cache
+C:\Users\tet3t\Desktop\Всякая домашка\Авторизация\Авторизация\obj\Debug\Авторизация.csproj.CoreCompileInputs.cache
+C:\Users\tet3t\Desktop\Всякая домашка\Авторизация\Авторизация\obj\Debug\Авторизация.exe
+C:\Users\tet3t\Desktop\Всякая домашка\Авторизация\Авторизация\obj\Debug\Авторизация.pdb
+C:\Users\tet3t\Desktop\Авторизация\Авторизация\bin\Debug\Авторизация.exe.config
+C:\Users\tet3t\Desktop\Авторизация\Авторизация\bin\Debug\Авторизация.exe
+C:\Users\tet3t\Desktop\Авторизация\Авторизация\bin\Debug\Авторизация.pdb
+C:\Users\tet3t\Desktop\Авторизация\Авторизация\obj\Debug\Авторизация.csprojAssemblyReference.cache
+C:\Users\tet3t\Desktop\Авторизация\Авторизация\obj\Debug\Авторизация.Form1.resources
+C:\Users\tet3t\Desktop\Авторизация\Авторизация\obj\Debug\Авторизация.Form2.resources
+C:\Users\tet3t\Desktop\Авторизация\Авторизация\obj\Debug\Авторизация.Properties.Resources.resources
+C:\Users\tet3t\Desktop\Авторизация\Авторизация\obj\Debug\Авторизация.csproj.GenerateResource.cache
+C:\Users\tet3t\Desktop\Авторизация\Авторизация\obj\Debug\Авторизация.csproj.CoreCompileInputs.cache
+C:\Users\tet3t\Desktop\Авторизация\Авторизация\obj\Debug\Авторизация.exe
+C:\Users\tet3t\Desktop\Авторизация\Авторизация\obj\Debug\Авторизация.pdb
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Отправить\Авторизация\Авторизация\bin\Debug\Авторизация.exe.config
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Отправить\Авторизация\Авторизация\bin\Debug\Авторизация.exe
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Отправить\Авторизация\Авторизация\bin\Debug\Авторизация.pdb
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Отправить\Авторизация\Авторизация\obj\Debug\Авторизация.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Отправить\Авторизация\Авторизация\obj\Debug\Авторизация.Form1.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Отправить\Авторизация\Авторизация\obj\Debug\Авторизация.Form2.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Отправить\Авторизация\Авторизация\obj\Debug\Авторизация.Properties.Resources.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Отправить\Авторизация\Авторизация\obj\Debug\Авторизация.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Отправить\Авторизация\Авторизация\obj\Debug\Авторизация.exe
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Отправить\Авторизация\Авторизация\obj\Debug\Авторизация.pdb
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\Авторизация\Авторизация\bin\Debug\Авторизация.exe.config
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\Авторизация\Авторизация\bin\Debug\Авторизация.exe
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\Авторизация\Авторизация\bin\Debug\Авторизация.pdb
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\Авторизация\Авторизация\obj\Debug\Авторизация.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\Авторизация\Авторизация\obj\Debug\Авторизация.Form1.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\Авторизация\Авторизация\obj\Debug\Авторизация.Form2.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\Авторизация\Авторизация\obj\Debug\Авторизация.Properties.Resources.resources
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\Авторизация\Авторизация\obj\Debug\Авторизация.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\Авторизация\Авторизация\obj\Debug\Авторизация.exe
+C:\Users\User\Desktop\Савелий\Дистанционное обучение\Дмитриева\Основные задания\Пушкарев Савелий ИСиП-22\Авторизация\Авторизация\obj\Debug\Авторизация.pdb
