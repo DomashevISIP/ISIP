@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Desktop\Задание №2\Задание №2\bin\Debug\Задание №2.exe.config
+C:\Users\ADMIN\Desktop\Задание №2\Задание №2\bin\Debug\Задание №2.exe
+C:\Users\ADMIN\Desktop\Задание №2\Задание №2\bin\Debug\Задание №2.pdb
+C:\Users\ADMIN\Desktop\Задание №2\Задание №2\obj\Debug\Задание №2.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Задание №2\Задание №2\obj\Debug\Задание__2.Form1.resources
+C:\Users\ADMIN\Desktop\Задание №2\Задание №2\obj\Debug\Задание__2.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Задание №2\Задание №2\obj\Debug\Задание №2.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Задание №2\Задание №2\obj\Debug\Задание №2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Задание №2\Задание №2\obj\Debug\Задание №2.exe
+C:\Users\ADMIN\Desktop\Задание №2\Задание №2\obj\Debug\Задание №2.pdb
